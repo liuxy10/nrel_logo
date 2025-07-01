@@ -16,7 +16,7 @@ The new logo features a **windmill symbol** where the letters **N, R, and E** fo
 ### Walking Woman T-Shirt Design
 
 - **Design Concept:**
-The T-shirt features the figure of a **walking woman**, symbolizing the lab’s commitment to diversity, inclusion, and support for underrepresented groups and all genders.
+The T-shirt features the figure of a **walking woman** that prominently displays the exoskeleton and prosthesis elements. It symbolizes the lab’s commitment to diversity, inclusion, and support for underrepresented groups and all genders.
 - **Back Logo Preview:**
 
 <p align="center">
@@ -24,10 +24,12 @@ The T-shirt features the figure of a **walking woman**, symbolizing the lab’s 
 </p>
 
 
-## Summary
+## High Resolution Files
+Vector graphs for both the front and back designs are available in the respective subfolders of this repository.
 
-- **Front:** Windmill logo (N, R, E as blades)
-- **Back:** Walking Woman design for diversity and inclusion
+## Use Policy:
+- These logo files are intended for official lab use only. Please do not distribute or modify without prior approval.
+- If you have any questions or require additional permissions, please contact the lab design team.
 
-For questions or access to high-resolution files, please contact the lab design team.
+Thank you for supporting the NREL Lab’s mission and visual identity!
 
